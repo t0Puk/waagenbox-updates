@@ -1,6 +1,1 @@
-{
-    "version":  "1.2.29",
-    "download_url":  "https://raw.githubusercontent.com/t0Puk/waagenbox-updates/main/release/waagenbox-1.2.29.zip",
-    "signature_url":  "https://raw.githubusercontent.com/t0Puk/waagenbox-updates/main/release/waagenbox-1.2.29.sig",
-    "sha256":  "f97ae651ac98e75f0471ae32cbd2c74e2059d23b7358132a535804c6acb56269"
-}
+{"version":"1.2.30","download_url":"https://raw.githubusercontent.com/t0Puk/waagenbox-updates/main/release/waagenbox-1.2.30.zip","signature_url":"https://raw.githubusercontent.com/t0Puk/waagenbox-updates/main/release/waagenbox-1.2.30.sig","sha256":"309dfc66dd80760a43fc936dbb0490252972933a3c95ffe2d9e407dd21223f7d"}
